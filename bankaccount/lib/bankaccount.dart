@@ -8,6 +8,7 @@ class Bankaccount {
   deposit(double amount) {
     _balance += amount;
     print('$amount:successfuly deposited');
+    
   }
 
   
